@@ -1,2 +1,2 @@
 # Job_Hunter
-This repository contains my DBMS Project name Job Hunter a website develop via html, css, php and mysql.
+This repository contains my DBMS Project name Job Hunter a Job Portal Website develop via html, css, php and mysql.
