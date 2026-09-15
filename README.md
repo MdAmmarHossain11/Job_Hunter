@@ -1,4 +1,11 @@
-# Job Hunter – Job Portal Website
+# Job Hunter - Job Portal Website
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 **Job Hunter** is a web-based **Job Portal Management System** developed as a **Database Management System (DBMS) project**. The platform provides a centralized environment where **job seekers can search and apply for jobs**, while **employers can post and manage job opportunities**.
 
