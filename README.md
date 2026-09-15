@@ -53,8 +53,6 @@ Users can:
 
 The information stored in the user profile is also used by the **automated CV generation system**.
 
----
-
 ### Job Search & Browsing 🔎
 
 Job seekers can explore available employment opportunities through the platform.
@@ -66,8 +64,6 @@ Features include:
 * View job details.
 * Check job requirements.
 * Explore available positions before applying.
-
----
 
 ### Job Posting & Management 💼
 
@@ -84,8 +80,6 @@ Employers can:
 
 This provides employers with a centralized way to present available employment opportunities to job seekers.
 
----
-
 ### Job Application 📄
 
 Job seekers can apply for suitable positions through the system.
@@ -100,15 +94,13 @@ The application workflow allows users to:
 
 The system therefore connects job seekers with available employment opportunities through a database-driven application process.
 
----
-
-# Automated CV Generation & Download 📑
+### Automated CV Generation & Download 📑
 
 One of the notable features of **Job Hunter** is its integrated **CV Generation System**.
 
 Instead of requiring users to manually create a CV every time they apply for a job, the system automatically generates a CV using information already stored in their user profile.
 
-### ⚙️ How It Works
+### How It Works ⚙️
 
 The CV generation process follows this workflow:
 
