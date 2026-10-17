@@ -1,0 +1,3 @@
+<Files "job_portal.sql">
+    Require all denied
+</Files>
