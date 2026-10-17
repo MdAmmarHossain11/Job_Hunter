@@ -438,7 +438,7 @@ return true;
 <script type="text/javascript" src="js/easy-ticker.js"></script>
 <script type="text/javascript" src="js/jquery.introLoader.min.js"></script>
 <script type="text/javascript" src="js/jquery.responsivegrid.js"></script>
-<script type="text/javascript" src="js/customs.js"></script>
+<script type="text/javascript" src="js/customs.js?v=2"></script>
 
 
 </body>
