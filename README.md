@@ -13,6 +13,8 @@ A key feature of the system is its **automated CV generation and download functi
 
 The project was developed using **HTML, CSS, PHP, and MySQL**, with a relational database used to store and manage the application's information.
 
+**Live Demo:** https://jobhunter-md-ammar.rf.gd
+
 ---
 
 ## Project Overview
