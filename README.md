@@ -412,20 +412,6 @@ The Job Hunter platform can be further enhanced with additional functionality su
 
 ---
 
-## Deploying on InfinityFree
-
-1. Create an InfinityFree hosting account and choose an available free subdomain, or connect a domain that you own. A name ending in `.net` requires owning and configuring that domain; it is not a free subdomain.
-2. Create a MySQL database in the hosting control panel, then import `Main Project/job_portal.sql` using phpMyAdmin.
-3. In `Main Project/constants/db_config.php`, set the hosting database host, username, password, and database name. InfinityFree supplies these values in the database details. Do not commit hosting credentials to GitHub. The `DB_HOST`, `DB_USER`, `DB_PASSWORD`, and `DB_NAME` environment variables can also supply them; the defaults are for local XAMPP development.
-4. Upload the **contents** of `Main Project` to the account's `htdocs` directory, including `.htaccess`. Do not upload `job_portal.sql` there; import it through phpMyAdmin instead. The access rule blocks direct web requests for that dump.
-5. Open the domain assigned to the hosting account and confirm the site can connect to its database.
-
-The SQL dump contains profile and uploaded-file data. Only import it if you are authorized to publish that information; use a sanitized dump for a public demo.
-
-This project has not been tested on InfinityFree. Review PHP/database compatibility and test registration, login, job posting, and CV/file upload features after deployment.
-
----
-
 ## License
 
 This project is licensed under the **MIT License**.
